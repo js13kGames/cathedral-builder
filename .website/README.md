@@ -1,4 +1,7 @@
 ---
+genres:
+  - management
+  - simulation
 post: https://github.com/HomerDilpleu/CathedralBuilder/blob/main/postMortem/postMortem.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
